@@ -104,6 +104,8 @@ def convert_japanese_to_romaji(text):
         'じゃ': 'ja',  'じゅ': 'ju',  'じょ': 'jo',
         'ぢゃ': 'ja',  'ぢゅ': 'ju',  'ぢょ': 'jo',
         'びゃ': 'bya', 'びゅ': 'byu', 'びょ': 'byo',
+        'てゃ': 'tya', 'てゅ': 'tyu', 'てょ': 'tyo',
+        'ふゃ': 'fya', 'ふゅ': 'fyu', 'ふょ': 'fyo',
 
         # Additional entries for small vowel combinations:
         'つぁ': 'tsa', 'つぃ': 'tsi', 'つぇ': 'tse', 'つぉ': 'tso',
@@ -126,7 +128,9 @@ def convert_japanese_to_romaji(text):
         'ぎぇ': 'gye',
         'ひぇ': 'hye',
         'びぇ': 'bye',
-
+        'てぇ': 'tye',
+        'ふぇ': 'fye',
+        
         # Hiragana for "ye"
         'いぇ': 'ye',
 
