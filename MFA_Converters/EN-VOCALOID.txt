@@ -1,0 +1,59 @@
+aj,aI
+aw,aU
+b,b
+bʲ,bh j [OR] b j
+c,k j
+cʰ,kh j
+cʷ,kh w j [OR] k w j
+dʒ,dZ
+dʲ,d'
+d̪,d
+ej,eI
+fʲ,f j
+kʰ,kh
+kʷ,kh w
+mʲ,m j
+m̩,m_=
+n̩,n_=
+ow,oU
+pʰ,ph
+pʲ,ph j [OR] p j
+pʷ,ph w
+tʃ,tS
+tʰ,th
+tʲ,th j [OR] t j
+tʷ,th w [OR] t w
+vʲ,v j
+æ,{
+ç,C
+ð,D
+ŋ,N
+ɐ,6
+ɑ,A
+ɑː,A:
+ɒ,Q
+ɒː,Q:
+ɔj,OI
+ə,@
+ɚ,@r
+ɛ,E
+ɝ,e@
+ɟ,j\
+ɟʷ,j\ w
+ɡʷ,gh w [OR] g w
+ɪ,I
+ɫ,l0
+ɫ̩,l0_=
+ɱ,F
+ɲ,J
+ɹ,r
+ɾ,4
+ɾʲ,4'
+ɾ̃ ,4~
+ʃ,S
+ʉ,}
+ʊ,U
+ʎ,L
+ʒ,Z
+ʔ,?
+θ,T
