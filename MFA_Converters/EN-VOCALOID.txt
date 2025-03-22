@@ -1,57 +1,66 @@
 aj,aI
 aw,aU
-b,b
-bʲ,bh j [OR] b j
-c,k j
-cʰ,kh j
-cʷ,kh w j [OR] k w j
+aː,a
+bʲ,b_j
+c,k_j
+cʰ,kh_j
+cʷ,k_w_j
 dʒ,dZ
 dʲ,d'
 d̪,d
 ej,eI
-fʲ,f j
+fʲ,f_j
+i
+iː,i:
 kʰ,kh
-kʷ,kh w
-mʲ,m j
-m̩,m_=
-n̩,n_=
-ow,oU
+kʷ,kh_w
+mʲ,m_j
+m̩,m
+n̩,n
+ow,@U
 pʰ,ph
-pʲ,ph j [OR] p j
-pʷ,ph w
+pʲ,p_j
+pʷ,p_w
+s
+t
 tʃ,tS
 tʰ,th
-tʲ,th j [OR] t j
-tʷ,th w [OR] t w
-vʲ,v j
+tʲ,t_j
+tʷ,t_w
+t̪,t
+v
+vʲ,v_j
+w
+z
 æ,{
 ç,C
 ð,D
 ŋ,N
-ɐ,6
+ɐ,V
 ɑ,A
-ɑː,A:
+ɑː,Q@
 ɒ,Q
-ɒː,Q:
+ɒː,O:
 ɔj,OI
 ə,@
 ɚ,@r
 ɛ,E
 ɝ,e@
 ɟ,j\
-ɟʷ,j\ w
-ɡʷ,gh w [OR] g w
+ɟʷ,j\_w
+ɡʷ,g_w
 ɪ,I
 ɫ,l0
-ɫ̩,l0_=
+ɫ̩,@l
 ɱ,F
 ɲ,J
 ɹ,r
 ɾ,4
 ɾʲ,4'
-ɾ̃ ,4~
+ɾ̃,4~
 ʃ,S
 ʉ,}
+ʉː,u:
 ʊ,U
 ʎ,L
 ʒ,Z
