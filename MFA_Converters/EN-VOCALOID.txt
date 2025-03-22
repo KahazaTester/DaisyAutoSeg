@@ -10,7 +10,6 @@ dʲ,d'
 d̪,d
 ej,eI
 fʲ,f_j
-i
 iː,i:
 kʰ,kh
 kʷ,kh_w
@@ -21,17 +20,12 @@ ow,@U
 pʰ,ph
 pʲ,p_j
 pʷ,p_w
-s
-t
 tʃ,tS
 tʰ,th
 tʲ,t_j
 tʷ,t_w
 t̪,t
-v
 vʲ,v_j
-w
-z
 æ,{
 ç,C
 ð,D
